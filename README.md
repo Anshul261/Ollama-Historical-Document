@@ -1,0 +1,1 @@
+This project will utilize the Ollama api to create a LLM model that can perfrom analysis on histocial documents from the Data set:https://www.kaggle.com/datasets/keithgalli/freedmens-bureau-historical-documents
